@@ -1,4 +1,4 @@
-# HR Data Analysis Dashboard – Tableau
+# HR Data Analytical Dashboard – Tableau
 
 ## Project Overview
 This project focuses on analyzing employee data to identify workforce trends and patterns using Tableau. An interactive dashboard was developed to present important HR insights and support data-driven decision-making.
